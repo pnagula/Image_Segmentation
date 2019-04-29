@@ -6,6 +6,8 @@ Each blue box corresponds to a multi-channel feature map. The number of channels
 
 ## Input Image
 
+![alt_text] (https://github.com/pnagula/Image_Segmentation/blob/master/fff013bbf988_04.jpeg)
+
 ## Scored Image
 
 ![alt_text](https://github.com/pnagula/Image_Segmentation/blob/master/16_512.jpg)

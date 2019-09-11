@@ -4,7 +4,7 @@
 * The network is based on the fully convolutional network and its architecture was modified and extended to work with fewer training images and to yield more precise segmentations. 
 * Segmentation of a 512x512 image takes less than a second on a recent GPU.
 
-![alt_text](https://github.com/pnagula/Image_Classification/blob/master/UNet_Arch.jpg)
+![alt_text](https://github.com/pnagula/Image_Segmentation/blob/master/UNet_Arch.jpg)
 Each blue box corresponds to a multi-channel feature map. The number of channels is denoted on top of the box. The x-y-size is provided at the lower left edge of the box. White boxes represent copied feature maps. The arrows denote the different operations.
 
 ## Input Image
